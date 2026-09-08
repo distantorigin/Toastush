@@ -8,6 +8,7 @@
 
 ### New
 - Added a sound for when you listen to a fountain.
+- Added two new robot dance sounds.
 
 ## Version 4.2.15
 
